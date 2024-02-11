@@ -1,6 +1,3 @@
 *.o
 *.swp
 _build
-.vscode
-debian
-__pycache__
